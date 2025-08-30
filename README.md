@@ -10,36 +10,36 @@ Our learning journey is broken down into logical sections, with each folder cont
 
 Fundamentals: Master the basics of C++, including:
 
-Input/Output Operations (cin, cout)
+- Input/Output Operations (cin, cout)
 
-Variables, Data Types, and Operators
+- Variables, Data Types, and Operators
 
-Control Flow (if-else, loops)
+- Control Flow (if-else, loops)
 
-Functions and Pointers
+- Functions and Pointers
 
 Object-Oriented Programming (OOP): Dive into the core principles of OOP, a paradigm that structures code for reusability and efficiency.
 
-Classes and Objects
+- Classes and Objects
 
-Constructors and Destructors
+- Constructors and Destructors
 
-Inheritance and Polymorphism
+- Inheritance and Polymorphism
 
-Encapsulation and Abstraction
+- Encapsulation and Abstraction
 
 Standard Template Library (STL): Explore the powerful tools C++ offers for managing data.
 
-Containers (vector, list, map, set)
+- Containers (vector, list, map, set)
 
-Iterators
+- Iterators
 
-Algorithms (sort, find, binary_search)
+- Algorithms (sort, find, binary_search)
 
 Data Structures & Algorithms (DSA): This is where we build the core logic for solving complex problems.
 
-Fundamental Data Structures: Arrays, Linked Lists, Stacks, and Queues.
+- Fundamental Data Structures: Arrays, Linked Lists, Stacks, and Queues.
 
-Advanced Data Structures: Trees (Binary, AVL), Heaps, and Graphs.
+- Advanced Data Structures: Trees (Binary, AVL), Heaps, and Graphs.
 
-Essential Algorithms: Sorting (Merge Sort, Quick Sort), Searching, and Greedy Algorithms.
+- Essential Algorithms: Sorting (Merge Sort, Quick Sort), Searching, and Greedy Algorithms.
