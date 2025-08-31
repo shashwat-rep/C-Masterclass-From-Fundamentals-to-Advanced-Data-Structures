@@ -18,16 +18,6 @@ Fundamentals: Master the basics of C++, including:
 
 - Functions and Pointers
 
-Object-Oriented Programming (OOP): Dive into the core principles of OOP, a paradigm that structures code for reusability and efficiency.
-
-- Classes and Objects
-
-- Constructors and Destructors
-
-- Inheritance and Polymorphism
-
-- Encapsulation and Abstraction
-
 Standard Template Library (STL): Explore the powerful tools C++ offers for managing data.
 
 - Containers (vector, list, map, set)
