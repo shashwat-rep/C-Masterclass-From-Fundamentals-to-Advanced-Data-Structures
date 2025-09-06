@@ -1,12 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 int sum(int a){
     return a+10;
 }
+
 int sum1(int &a){
     a=a+10;
     return a;
 }
+
 int main(){
     int num = 100;
     cout<<sum(num)<<endl; // this is called pass by value and the passed value does not change 
@@ -15,3 +18,4 @@ int main(){
     cout<<num<<endl;
     // an array by default follows pass by reference
 }
+
